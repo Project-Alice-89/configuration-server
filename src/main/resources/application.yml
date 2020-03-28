@@ -3,7 +3,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/Project-Alice-89/configs.git
+          uri: git@github.com:Project-Alice-89/configs.git
           clone-on-start: true
   security:
     user:
